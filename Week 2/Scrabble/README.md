@@ -2,7 +2,7 @@
 
 In the game of [Scrabble](https://scrabble.hasbro.com/en-us/rules), players create words to score points, and the number of points is the sum of the point values of each letter in the word.
 
-![image-20220316160518118](C:\Users\campb\AppData\Roaming\Typora\typora-user-images\image-20220316160518118.png)
+![scrabble points](https://i.imgur.com/wgSiBeG.png)
 
 ## How to play? :keyboard:
 
