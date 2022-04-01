@@ -32,7 +32,7 @@ We dive deeply on data types, specifically strings and arrays (there´s a plot t
 
 - **Problem set 2:** As week 2´s definition says, we work a lot with arrays here. Here you´ll find codes like **Scrabble**, **Readability** and **Caesar**.
 
-***Week : Algorithms***
+***Week 3: Algorithms***
 
 On week 3 we learn about searching and sorting algorithms like: linear search, binary search, selection sort, bubble sort and merge sort.
 
