@@ -4,7 +4,7 @@ Caesar is a program that allows you to encrypt messages by changing  the positio
 
 Here is a practical example:
 
-![image-20220323154312623](C:\Users\campb\AppData\Roaming\Typora\typora-user-images\image-20220323154312623.png)
+![image-20220323154312623](https://i.imgur.com/WPBlxo7.png)
 
 ## Program's logic :woman_technologist:
 
