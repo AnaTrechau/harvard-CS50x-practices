@@ -38,5 +38,16 @@ On week 3 we learn about searching and sorting algorithms like: linear search, b
 
 - **Problem set 3:** On these exercises we'll get to implement a lot of functions, which is great to train code understanding and implementing. Here you´ll find codes like **Sort**, **Plurality** and **Runoff**.
 
+***Week 4: Memory***
 
+:hammer_and_wrench: --**Working on it** -- :hammer_and_wrench:
 
+***Week 5: Data types***
+
+:hammer_and_wrench: --**Working on it** -- :hammer_and_wrench:
+
+***Week 6: Python***
+
+On week 6 we're introduced to a new and modern programming language: Python.
+
+- **Problem set 6:** Some of the exercises on pset 6 are about rewriting previous code, but now in Python. As for now programs, we manage bigger files and data. Here you´ll find codes like **Hello**, **Mario**, **Cash**, **Readability**, **DNA** and **Tournament**.
